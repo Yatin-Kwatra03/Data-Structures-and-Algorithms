@@ -1,0 +1,30 @@
+competitive book link https://cses.fi/problemset/list/
+
+DP BRACKET ALL OVER
+
+Balife
+
+Discount
+
+Box Stacking Problem
+
+Kth Smallest element O(n)
+
+Recursively remove all adjacent duplicates
+
+Implement 3 stacks using 1 array and related problems
+
+no of elements in a circular queue at any
+moment using front and rear pointer
+ 
+threaded binary trees
+
+trees till 167
+
+hufmann coding decoding
+
+build tree from inorder and level_order
+
+done from Karumachi-> 
+queues
+stacks
