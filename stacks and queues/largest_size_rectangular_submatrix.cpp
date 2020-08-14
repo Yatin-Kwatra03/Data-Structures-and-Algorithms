@@ -129,8 +129,7 @@ o- - -  \o          __|
 
 const int N = 1005;
 
-vvii v(N, vii(N));
-
+int v[N][N];
 int n, m, ans;
 
 int f( vii &a)
